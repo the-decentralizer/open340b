@@ -1,0 +1,2 @@
+#This compiles the Circom circuit and exports the Solidity verifier.
+.github/workflows/circuit-compile.yml

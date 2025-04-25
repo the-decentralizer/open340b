@@ -1,0 +1,5 @@
+#	•	Deploys EligibilityAttestor.sol via Hardhat
+#	•	Uses your PRIVATE_KEY and BASE_RPC_URL from .env
+#	•	Verifies on BaseScan if key is present
+
+.github/workflows/deploy-base.yml

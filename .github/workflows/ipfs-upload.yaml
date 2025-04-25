@@ -1,0 +1,4 @@
+	#•	Sends proof or deploy events to:
+	#•	Telegram bot
+	#•	Webhook URL (e.g. Zapier, Notion, Discord)
+.github/workflows/ipfs-upload.yml
